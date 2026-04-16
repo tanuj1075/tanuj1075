@@ -1,1 +1,1 @@
-pip install mlxtend pandas
+mvn spring-boot:run how to run 1q
