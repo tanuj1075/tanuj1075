@@ -1,2 +1,3 @@
 mvn spring-boot:run how to run 1q
 mvn exec:java how to run q2
+New folder\src\main\java\com\example
